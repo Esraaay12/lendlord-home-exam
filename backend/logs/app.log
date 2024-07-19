@@ -1,0 +1,40 @@
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":37982,"level":30,"msg":"started in development env, listening to port 3000","time":"2024-07-19T06:34:00.018Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":37982,"level":30,"msg":"Mongoose connected","time":"2024-07-19T06:34:07.930Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":37982,"level":30,"msg":"connected to database","time":"2024-07-19T06:34:07.933Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":38220,"level":30,"msg":"started in development env, listening to port 3000","time":"2024-07-19T06:37:55.044Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":38220,"level":30,"msg":"Mongoose connected","time":"2024-07-19T06:37:57.415Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":38220,"level":30,"msg":"connected to database","time":"2024-07-19T06:37:57.417Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":38359,"level":30,"msg":"started in development env, listening to port 3000","time":"2024-07-19T06:39:12.439Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":38359,"level":30,"msg":"Mongoose connected","time":"2024-07-19T06:39:41.969Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":38359,"level":30,"msg":"connected to database","time":"2024-07-19T06:39:41.971Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":38691,"level":30,"msg":"started in development env, listening to port 3000","time":"2024-07-19T06:41:12.578Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":38691,"level":30,"msg":"Mongoose connected","time":"2024-07-19T06:41:19.534Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":38691,"level":30,"msg":"connected to database","time":"2024-07-19T06:41:19.537Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":38691,"level":30,"msg":"Mongoose disconnected","time":"2024-07-19T06:49:18.737Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":38691,"level":30,"msg":"Mongoose connected","time":"2024-07-19T06:49:18.773Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":44677,"level":30,"msg":"started in development env, listening to port 3000","time":"2024-07-19T07:02:15.538Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":44677,"level":30,"msg":"Mongoose connected","time":"2024-07-19T07:02:22.561Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":44677,"level":30,"msg":"connected to database","time":"2024-07-19T07:02:22.564Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":44766,"level":30,"msg":"started in development env, listening to port 3000","time":"2024-07-19T07:02:26.734Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":44766,"level":30,"msg":"Mongoose connected","time":"2024-07-19T07:02:28.625Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":44766,"level":30,"msg":"connected to database","time":"2024-07-19T07:02:28.628Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":45966,"level":30,"msg":"started in development env, listening to port 3000","time":"2024-07-19T07:09:33.749Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":45966,"level":30,"msg":"Mongoose connected","time":"2024-07-19T07:09:36.429Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":45966,"level":30,"msg":"connected to database","time":"2024-07-19T07:09:36.430Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":46796,"level":30,"msg":"started in development env, listening to port 3000","time":"2024-07-19T07:17:22.222Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":46796,"level":30,"msg":"Mongoose connected","time":"2024-07-19T07:17:24.594Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":46796,"level":30,"msg":"connected to database","time":"2024-07-19T07:17:24.595Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":46888,"level":30,"msg":"started in development env, listening to port 3000","time":"2024-07-19T07:18:26.965Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":46888,"level":30,"msg":"Mongoose connected","time":"2024-07-19T07:18:29.312Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":46888,"level":30,"msg":"connected to database","time":"2024-07-19T07:18:29.314Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":46978,"level":30,"msg":"started in development env, listening to port 3000","time":"2024-07-19T07:18:58.361Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":46978,"level":30,"msg":"Mongoose connected","time":"2024-07-19T07:19:00.233Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":46978,"level":30,"msg":"connected to database","time":"2024-07-19T07:19:00.236Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":47951,"level":30,"msg":"started in development env, listening to port 3000","time":"2024-07-19T07:23:53.528Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":47951,"level":30,"msg":"Mongoose connected","time":"2024-07-19T07:23:55.916Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":47951,"level":30,"msg":"connected to database","time":"2024-07-19T07:23:55.918Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":48789,"level":30,"msg":"started in development env, listening to port 3000","time":"2024-07-19T07:32:51.494Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":48789,"level":30,"msg":"Mongoose connected","time":"2024-07-19T07:32:53.681Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":48789,"level":30,"msg":"connected to database","time":"2024-07-19T07:32:53.683Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":49156,"level":30,"msg":"Mongoose connected","time":"2024-07-19T07:38:29.395Z","v":0}
+{"name":"ex4Broker","hostname":"kiranpalsingh","pid":49156,"level":30,"msg":"connected to database","time":"2024-07-19T07:38:29.398Z","v":0}
